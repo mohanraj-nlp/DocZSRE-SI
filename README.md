@@ -1,5 +1,7 @@
 # DocZSRE-SI
-Code for Document-Level Zero-Shot Relation Extraction with Entity Side Information (DocZSRE-SI)
+Code for Document-Level Zero-Shot Relation Extraction with Entity Side Information (DocZSRE-SI).
+🎉 Happy to share that the paper is accepted in EACL 2026 <a href="https://arxiv.org/abs/2601.07271" target="_blank">arXiv (preprint)</a>
+
 ## Dependencies
 
 Python 3.10
