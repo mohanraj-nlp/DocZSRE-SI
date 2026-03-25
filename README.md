@@ -24,8 +24,8 @@ Follow these steps to get the project up and running:
 3. Create Folder for the Dataset:
   - DocRED: Download the dataset (https://github.com/thunlp/DocRED)
   - REDocRED: Download the dataset (https://github.com/tonytan48/Re-DocRED)
-  - MEN-Dataset: Download the dataset (https://github.com/mohanraj-nlp/MEN-Dataset)
-    - The provided repository only provides 200 Articles. The remaining 200 has yet to be published by author.
+  - MEN-Dataset: Download the dataset (https://github.com/mohanraj-nlp/MEN-Dataset/tree/hitl_annotation)
+    - Please use dataset uploaded in 'hitl_annotation' branch.
 
 4. For Generating Side-Information Module (Execute following order):
     - Run Jupyter Notebook: **Run Description Generation**
